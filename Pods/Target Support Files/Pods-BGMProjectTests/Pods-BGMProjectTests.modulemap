@@ -1,0 +1,6 @@
+framework module Pods_BGMProjectTests {
+  umbrella header "Pods-BGMProjectTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
