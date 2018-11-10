@@ -39,11 +39,8 @@
 
 /* Begin PBXFileReference section */
 		0828E82D685CDAC3296F4A86 /* Pods_BGMProjectTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BGMProjectTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		2B58EE40B80514D03DD54107 /* Pods-BGMProject.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BGMProject.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BGMProject/Pods-BGMProject.debug.xcconfig"; sourceTree = "<group>"; };
-		38DA7AEA6080AC30F44AC045 /* Pods-BGMProject.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BGMProject.release.xcconfig"; path = "Pods/Target Support Files/Pods-BGMProject/Pods-BGMProject.release.xcconfig"; sourceTree = "<group>"; };
-		4478201B82DEBB84617567EA /* Pods-BGMProjectUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BGMProjectUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-BGMProjectUITests/Pods-BGMProjectUITests.release.xcconfig"; sourceTree = "<group>"; };
-		4A5BF05BC4A786B27481D9F6 /* Pods-BGMProjectTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BGMProjectTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BGMProjectTests/Pods-BGMProjectTests.debug.xcconfig"; sourceTree = "<group>"; };
-		80273220C21784F59228A441 /* Pods-BGMProjectUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BGMProjectUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BGMProjectUITests/Pods-BGMProjectUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		2ACFB097A34AE9F3C1A40FAC /* Pods-BGMProjectTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BGMProjectTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BGMProjectTests/Pods-BGMProjectTests.debug.xcconfig"; sourceTree = "<group>"; };
+		887410918A71F4174031D974 /* Pods-BGMProject.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BGMProject.release.xcconfig"; path = "Pods/Target Support Files/Pods-BGMProject/Pods-BGMProject.release.xcconfig"; sourceTree = "<group>"; };
 		AE354411219757E600420AE8 /* BGMProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BGMProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AE354414219757E600420AE8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AE354416219757E600420AE8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,9 +55,12 @@
 		AE354434219757EA00420AE8 /* BGMProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BGMProjectUITests.swift; sourceTree = "<group>"; };
 		AE354436219757EA00420AE8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AE3544422197586700420AE8 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
+		B04B0F8F314F62C0241CB186 /* Pods-BGMProjectUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BGMProjectUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-BGMProjectUITests/Pods-BGMProjectUITests.release.xcconfig"; sourceTree = "<group>"; };
+		BEAC29AF751588044AFFECEE /* Pods-BGMProject.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BGMProject.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BGMProject/Pods-BGMProject.debug.xcconfig"; sourceTree = "<group>"; };
 		C82EAD088C7F85AF75EC7FB9 /* Pods_BGMProjectUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BGMProjectUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		CE83588915CDCD078E01FA9C /* Pods-BGMProjectTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BGMProjectTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-BGMProjectTests/Pods-BGMProjectTests.release.xcconfig"; sourceTree = "<group>"; };
+		CE31FBD7D37F3AFA204E0A6D /* Pods-BGMProjectUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BGMProjectUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BGMProjectUITests/Pods-BGMProjectUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		EC84E9BBC01E2C1F41BD1709 /* Pods_BGMProject.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BGMProject.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		EF70571265EC507A91DF6763 /* Pods-BGMProjectTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BGMProjectTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-BGMProjectTests/Pods-BGMProjectTests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,19 +91,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		323B640C993950EE06B4DAFE /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				2B58EE40B80514D03DD54107 /* Pods-BGMProject.debug.xcconfig */,
-				38DA7AEA6080AC30F44AC045 /* Pods-BGMProject.release.xcconfig */,
-				4A5BF05BC4A786B27481D9F6 /* Pods-BGMProjectTests.debug.xcconfig */,
-				CE83588915CDCD078E01FA9C /* Pods-BGMProjectTests.release.xcconfig */,
-				80273220C21784F59228A441 /* Pods-BGMProjectUITests.debug.xcconfig */,
-				4478201B82DEBB84617567EA /* Pods-BGMProjectUITests.release.xcconfig */,
-			);
-			name = Pods;
-			sourceTree = "<group>";
-		};
 		60164F485ABC7A80EB40D9B0 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -114,6 +101,19 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		A79C222EB38B4C5837D8CB63 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				BEAC29AF751588044AFFECEE /* Pods-BGMProject.debug.xcconfig */,
+				887410918A71F4174031D974 /* Pods-BGMProject.release.xcconfig */,
+				2ACFB097A34AE9F3C1A40FAC /* Pods-BGMProjectTests.debug.xcconfig */,
+				EF70571265EC507A91DF6763 /* Pods-BGMProjectTests.release.xcconfig */,
+				CE31FBD7D37F3AFA204E0A6D /* Pods-BGMProjectUITests.debug.xcconfig */,
+				B04B0F8F314F62C0241CB186 /* Pods-BGMProjectUITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		AE354408219757E500420AE8 = {
 			isa = PBXGroup;
 			children = (
@@ -121,8 +121,8 @@
 				AE354428219757EA00420AE8 /* BGMProjectTests */,
 				AE354433219757EA00420AE8 /* BGMProjectUITests */,
 				AE354412219757E600420AE8 /* Products */,
-				323B640C993950EE06B4DAFE /* Pods */,
 				60164F485ABC7A80EB40D9B0 /* Frameworks */,
+				A79C222EB38B4C5837D8CB63 /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -571,7 +571,7 @@
 		};
 		AE35443A219757EA00420AE8 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2B58EE40B80514D03DD54107 /* Pods-BGMProject.debug.xcconfig */;
+			baseConfigurationReference = BEAC29AF751588044AFFECEE /* Pods-BGMProject.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -589,7 +589,7 @@
 		};
 		AE35443B219757EA00420AE8 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 38DA7AEA6080AC30F44AC045 /* Pods-BGMProject.release.xcconfig */;
+			baseConfigurationReference = 887410918A71F4174031D974 /* Pods-BGMProject.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -607,7 +607,7 @@
 		};
 		AE35443D219757EA00420AE8 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4A5BF05BC4A786B27481D9F6 /* Pods-BGMProjectTests.debug.xcconfig */;
+			baseConfigurationReference = 2ACFB097A34AE9F3C1A40FAC /* Pods-BGMProjectTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -628,7 +628,7 @@
 		};
 		AE35443E219757EA00420AE8 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CE83588915CDCD078E01FA9C /* Pods-BGMProjectTests.release.xcconfig */;
+			baseConfigurationReference = EF70571265EC507A91DF6763 /* Pods-BGMProjectTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -649,7 +649,7 @@
 		};
 		AE354440219757EA00420AE8 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 80273220C21784F59228A441 /* Pods-BGMProjectUITests.debug.xcconfig */;
+			baseConfigurationReference = CE31FBD7D37F3AFA204E0A6D /* Pods-BGMProjectUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -669,7 +669,7 @@
 		};
 		AE354441219757EA00420AE8 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4478201B82DEBB84617567EA /* Pods-BGMProjectUITests.release.xcconfig */;
+			baseConfigurationReference = B04B0F8F314F62C0241CB186 /* Pods-BGMProjectUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
